@@ -24,3 +24,10 @@ h1{text-align:center;margin:20px 0}
 <p style="text-align:center;color:#888">每天08:30自动更新 · 由Grok实时抓取X平台</p>
 </body>
 </html>
+<script>
+const fullData = [
+  {rank:1, cat:"空投/赠送", summary:"@tivuhhhh ETH $44空投", comments:572, likes:655, reposts:595, views:35472, link:"https://x.com/tivuhhhh/status/1993119556861345939"},
+  // ... 添加其余9条（从我的上一条消息复制）
+];
+// 渲染函数（省略，完整代码见前）
+</script>
